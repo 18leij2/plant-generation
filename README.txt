@@ -1,0 +1,5 @@
+How to run code:
+- There is one scene, pressing run will generate 3 unique trees that can be changed by their seed value
+- In the inspector window, there are 3 empty GameObjects, each has a seed used to generate a tree
+- This seed can be changed to change the trees that are generated - for convenience, a seed has already been picked to showcase the best looking trees
+- The Node.cs file contains the code class for all the data types used, whereas Plant.cs is where the actual generation works
